@@ -35,7 +35,7 @@ Any feedback or contributions are highly appreciated! If you have any suggestion
 ## About the Author
 This project is developed by CodedBrainy, a platform dedicated to providing valuable information and resources on coding, web development, and technology.
 
-Visit CodedBrainy.com to explore more informative articles, tutorials, and resources related to web development and programming. Visit ![link](https://www.codedbrainy.com/capture-full-page-screenshots-chrome-extension/) to read the blog
+Visit CodedBrainy.com to explore more informative articles, tutorials, and resources related to web development and programming. Visit [link](https://www.codedbrainy.com/capture-full-page-screenshots-chrome-extension/) to read the blog
 
 ## License
 This project is licensed under the MIT License.
