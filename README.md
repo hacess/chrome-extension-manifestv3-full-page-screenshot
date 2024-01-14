@@ -5,7 +5,8 @@ This is a repository for Fullpage screenshot, a Chrome extension that allows you
 ## Overview
 
 This Chrome extension will capture screenshots of the entire webpage by scrolling and stitch them together into a full-page screenshot. The resulting image will be downloaded with the name "fullpage_screenshot.png."
-Remember that capturing full-page screenshots of all types of websites can be complex due to variations in web page structures and behaviors. This is a simplified example and might need to be adjusted based on your specific needs
+
+**Remember that capturing full-page screenshots of all types of websites can be complex due to variations in web page structures and behaviors. This is a simplified example and might need to be adjusted based on your specific needs**
 
 
 
